@@ -558,3 +558,8 @@ request page
 /*
 request page end
 */
+
+.icon img{
+    border-radius: 50px;
+
+}
